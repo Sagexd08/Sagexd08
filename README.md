@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 Hiiii ! I am Sohom:
 I am an undergraduate B.Tech Computer Science and Engineering student at Sister Nivedita University. Every technology that comes into view accelerates me toward<br>
 
 
