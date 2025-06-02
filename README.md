@@ -64,18 +64,18 @@ I am deeply passionate about backend systems, DevOps practices, and AI/ML resear
       Tech Executive · GeeksForGeeks SNU Chapter
       March 2025 – Present  
       <ul>
-        <li>Mentored **15+ student teams** through the AI/ML project lifecycle: defining problem statements, selecting algorithms, and designing robust architectures.</li>
-        <li>Provided **in-depth code reviews** and technical feedback, improving solution quality and learning outcomes.</li>
-        <li>Guided teams in **data preprocessing**, model training, hyperparameter tuning, and deployment using Python, scikit-learn, TensorFlow, Flask, and Docker.</li>
-        <li>Enabled **10+ live demos** and real-world application showcases by helping teams containerize, deploy, and monitor their models.</li>
+        <li>Mentored 15+ student teams through the AI/ML project lifecycle: defining problem statements, selecting algorithms, and designing robust architectures.</li>
+        <li>Provided in-depth code reviews and technical feedback, improving solution quality and learning outcomes.</li>
+        <li>Guided teams in data preprocessing, model training, hyperparameter tuning, and deployment using Python, scikit-learn, TensorFlow, Flask, and Docker.</li>
+        <li>Enabled 10+ live demos and real-world application showcases by helping teams containerize, deploy, and monitor their models.</li>
       </ul>
       Gen-AI Intern · AI Wallah 
       May 2025 – July 2025  
       <ul>
-        <li>**Prototyped, trained, and fine-tuned** transformer-based generative models (text, image, audio) on real-world datasets.</li>
+        <li>Prototyped, trained, and fine-tuned transformer-based generative models (text, image, audio) on real-world datasets.</li>
         <li>Mastered attention mechanisms, tokenization pipelines, and deployment best practices.</li>
-        <li>Built **scalable end-to-end pipelines**: integrated data ingestion, model training, evaluation, and production deployment.</li>
-        <li>**Optimized model performance** with quantization, pruning, and hyperparameter sweeps; documented solutions and maintained reproducible codebases.</li>
+        <li>Built scalable end-to-end pipelines: integrated data ingestion, model training, evaluation, and production deployment.</li>
+        <li>Optimized model performance with quantization, pruning, and hyperparameter sweeps; documented solutions and maintained reproducible codebases.</li>
       </ul>
     </td>
   </tr>
@@ -90,14 +90,13 @@ I am deeply passionate about backend systems, DevOps practices, and AI/ML resear
       <img src="https://media.giphy.com/media/l4pLY0zySvluEvr0c/giphy.gif" alt="Education GIF" width="180" />
     </td>
     <td valign="top">
-      **B.Tech Computer Science &amp; Engineering (Data Science)**  
-      School of Engineering, Sister Nivedita University  
+      B.Tech Computer Science &amp; Engineering (Data Science),
+      School of Engineering, Sister Nivedita University,
       2024 – 2028 (ongoing)
-
-  <br/>
       <br/>
-      Secondary &amp; Higher Secondary (10+2) 
-      D.A.V Model School, Durgapur  
+      <br/>
+      Secondary &amp; Higher Secondary (10+2) ,
+      D.A.V Model School, Durgapur,
       2010 – 2024
     </td>
   </tr>
