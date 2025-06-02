@@ -32,7 +32,7 @@
 <table>
   <tr>
     <td width="200">
-      <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" alt="Contact GIF" width="180" />
+      <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGI3cDdjM2tzbGhyZGNqOWQ5NzlmZjdid2FuNGJoYzJoY2diaGJkayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/fUNGb8eMRelIi9Sit8/giphy.gif" alt="Contact GIF" width="180" />
     </td>
     <td valign="top">
       <ul style="list-style: none; padding-left: 0;">
@@ -69,7 +69,6 @@ I am deeply passionate about backend systems, DevOps practices, and AI/ML resear
         <li>Guided teams in data preprocessing, model training, hyperparameter tuning, and deployment using Python, scikit-learn, TensorFlow, Flask, and Docker.</li>
         <li>Enabled 10+ live demos and real-world application showcases by helping teams containerize, deploy, and monitor their models.</li>
       </ul>
-
       Gen-AI Intern · AI Wallah  
       May 2025 – July 2025  
       <ul>
@@ -88,15 +87,13 @@ I am deeply passionate about backend systems, DevOps practices, and AI/ML resear
 <table>
   <tr>
     <td width="200">
-      <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" alt="Education GIF" width="180" />
+      <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXJncmU2NXB6Z3p1OWg5dzlvMnFuaGpuaDIwZGlmZDg2Nzhxa2Z0biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif" alt="Education GIF" width="180" />
     </td>
     <td valign="top">
       B.Tech Computer Science &amp; Engineering (Data Science),  
       School of Engineering, Sister Nivedita University,  
       2024 – 2028 (ongoing)
-
       <br/><br/>
-
       Secondary &amp; Higher Secondary (10+2),  
       D.A.V Model School, Durgapur,  
       2010 – 2024
