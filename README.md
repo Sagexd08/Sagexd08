@@ -8,16 +8,23 @@
 ---
 
 ## 💫 About Me  
-<p align="center">
-  <img src="https://media.giphy.com/media/13CoXDiaCcCoyk/giphy.gif" alt="Coding GIF" width="200" />
-</p>
-I’m a passionate B.Tech CSE (Data Science) student at Sister Nivedita University, Kolkata. I thrive on solving real-world problems with code, building AI/ML solutions, and contributing to DevOps pipelines. My background includes:
-- **Backend Development** with Python (Flask) & Node.js  
-- **AI/ML & Computer Vision** projects (TensorFlow, PyTorch, scikit-learn)  
-- **DevOps & Containerization** (Docker, Vercel)  
-- A strong foundation in strategic planning, creative problem solving, and adaptability
-
-I love collaborating with teams, mentoring peers, and exploring emerging technologies—especially in smart agriculture (Aqua Crop & greenhouse automation). Always eager to learn and innovate!  
+<table>
+  <tr>
+    <td width="200">
+      <img src="https://media.giphy.com/media/13CoXDiaCcCoyk/giphy.gif" alt="Coding GIF" width="180" />
+    </td>
+    <td valign="top">
+      I’m a passionate B.Tech CSE (Data Science) student at Sister Nivedita University, Kolkata. I thrive on solving real-world problems with code, building AI/ML solutions, and contributing to DevOps pipelines. My background includes:
+      <ul>
+        <li><strong>Backend Development</strong> with Python (Flask) & Node.js</li>
+        <li><strong>AI/ML & Computer Vision</strong> projects (TensorFlow, PyTorch, scikit-learn)</li>
+        <li><strong>DevOps & Containerization</strong> (Docker, Vercel)</li>
+        <li>A strong foundation in strategic planning, creative problem solving, and adaptability</li>
+      </ul>
+      I love collaborating with teams, mentoring peers, and exploring emerging technologies—especially in smart agriculture (Aqua Crop & greenhouse automation). Always eager to learn and innovate!
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -48,68 +55,83 @@ I am deeply passionate about backend systems, DevOps practices, and AI/ML resear
 ---
 
 ## 💼 Work Experience  
-<p align="center">
-  <img src="https://media.giphy.com/media/26tPplGWjN0xLybiU/giphy.gif" alt="Mentoring GIF" width="200" />
-</p>
+<table>
+  <tr>
+    <td width="200">
+      <img src="https://media.giphy.com/media/26tPplGWjN0xLybiU/giphy.gif" alt="Mentoring GIF" width="180" />
+    </td>
+    <td valign="top">
+      ### Tech Executive · GeeksForGeeks SNU Chapter  
+      **March 2025 – Present**  
+      - Mentored **15+ student teams** through the AI/ML project lifecycle: defining problem statements, selecting algorithms, and designing robust architectures.  
+      - Provided **in-depth code reviews** and technical feedback, improving solution quality and learning outcomes.  
+      - Guided teams in **data preprocessing**, model training, hyperparameter tuning, and deployment using Python, scikit-learn, TensorFlow, Flask, and Docker.  
+      - Enabled **10+ live demos** and real-world application showcases by helping teams containerize, deploy, and monitor their models.  
 
-### Tech Executive · GeeksForGeeks SNU Chapter  
-**March 2025 – Present**  
-- Mentored **15+ student teams** through the AI/ML project lifecycle: defining problem statements, selecting algorithms, and designing robust architectures.  
-- Provided **in-depth code reviews** and technical feedback, improving solution quality and learning outcomes.  
-- Guided teams in **data preprocessing**, model training, hyperparameter tuning, and deployment using Python, scikit-learn, TensorFlow, Flask, and Docker.  
-- Enabled **10+ live demos** and real-world application showcases by helping teams containerize, deploy, and monitor their models.  
-
-### Gen-AI Intern · AI Wallah  
-**May 2025 – July 2025**  
-- **Prototyped, trained, and fine-tuned** transformer‐based generative models (text, image, audio) on real-world datasets.  
-- Mastered attention mechanisms, tokenization pipelines, and deployment best practices.  
-- Built **scalable end-to-end pipelines**: integrated data ingestion, model training, evaluation, and production deployment.  
-- **Optimized model performance** with quantization, pruning, and hyperparameter sweeps; documented solutions and maintained reproducible codebases.
+      ### Gen-AI Intern · AI Wallah  
+      **May 2025 – July 2025**  
+      - **Prototyped, trained, and fine-tuned** transformer‐based generative models (text, image, audio) on real-world datasets.  
+      - Mastered attention mechanisms, tokenization pipelines, and deployment best practices.  
+      - Built **scalable end-to-end pipelines**: integrated data ingestion, model training, evaluation, and production deployment.  
+      - **Optimized model performance** with quantization, pruning, and hyperparameter sweeps; documented solutions and maintained reproducible codebases.
+    </td>
+  </tr>
+</table>
 
 ---
 
 ## 🎓 Education  
-<p align="center">
-  <img src="https://media.giphy.com/media/l4pLY0zySvluEvr0c/giphy.gif" alt="Education GIF" width="200" />
-</p>
+<table>
+  <tr>
+    <td width="200">
+      <img src="https://media.giphy.com/media/l4pLY0zySvluEvr0c/giphy.gif" alt="Education GIF" width="180" />
+    </td>
+    <td valign="top">
+      - **B.Tech Computer Science & Engineering (Data Science)**  
+        School of Engineering, Sister Nivedita University  
+        *2024 – 2028 (ongoing)*  
 
-- **B.Tech Computer Science & Engineering (Data Science)**  
-  School of Engineering, Sister Nivedita University  
-  *2024 – 2028 (ongoing)*  
-
-- **Secondary & Higher Secondary (10+2)**  
-  D.A.V Model School, Durgapur  
-  *2010 – 2024*
+      - **Secondary & Higher Secondary (10+2)**  
+        D.A.V Model School, Durgapur  
+        *2010 – 2024*
+    </td>
+  </tr>
+</table>
 
 ---
 
 ## 🛠️ Technical Skills  
-<p align="center">
-  <img src="https://media.giphy.com/media/3o6Zt481isNVuQI1l6/giphy.gif" alt="Skills GIF" width="200" />
-</p>
+<table>
+  <tr>
+    <td width="200">
+      <img src="https://media.giphy.com/media/3o6Zt481isNVuQI1l6/giphy.gif" alt="Skills GIF" width="180" />
+    </td>
+    <td valign="top">
+      - **Programming Languages & Frameworks**  
+        - Python (Flask, FastAPI)  
+        - JavaScript (Node.js, Express)  
+        - TensorFlow, PyTorch  
+        - scikit-learn, NumPy, Pandas, SciPy  
 
-- **Programming Languages & Frameworks**  
-  - Python (Flask, FastAPI)  
-  - JavaScript (Node.js, Express)  
-  - TensorFlow, PyTorch  
-  - scikit-learn, NumPy, Pandas, SciPy  
+      - **DevOps & Deployment**  
+        - Docker & Containerization  
+        - Vercel & Serverless Hosting  
+        - CI/CD Pipelines (GitHub Actions)  
 
-- **DevOps & Deployment**  
-  - Docker & Containerization  
-  - Vercel & Serverless Hosting  
-  - CI/CD Pipelines (GitHub Actions)  
+      - **Tools & Libraries**  
+        - OpenCV for Computer Vision  
+        - Matplotlib & Plotly for Visualization  
+        - Flask & RESTful API design  
+        - Linux & Bash scripting  
 
-- **Tools & Libraries**  
-  - OpenCV for Computer Vision  
-  - Matplotlib & Plotly for Visualization  
-  - Flask & RESTful API design  
-  - Linux & Bash scripting  
-
-- **Soft Skills**  
-  - Strategic Planning & Problem Solving  
-  - Crisis Management & Adaptability  
-  - Creative Thinking & Negotiation  
-  - Team Collaboration & Mentorship  
+      - **Soft Skills**  
+        - Strategic Planning & Problem Solving  
+        - Crisis Management & Adaptability  
+        - Creative Thinking & Negotiation  
+        - Team Collaboration & Mentorship  
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -149,7 +171,3 @@ I am deeply passionate about backend systems, DevOps practices, and AI/ML resear
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" />
 </p>
-
----
-
-[![Visitor Count](https://visitcount.itsvg.in/api?id=Sagexd08&icon=0&color=0)](https://visitcount.itsvg.in)  
