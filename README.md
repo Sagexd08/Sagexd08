@@ -22,14 +22,22 @@ I love collaborating with teams, mentoring peers, and exploring emerging technol
 ---
 
 ## 📞 Contact  
-<p align="center">
-  <img src="https://media.giphy.com/media/l4pLY0zySvluEvr0c/giphy.gif" alt="Contact GIF" width="200" />
-</p>
-- 📱 +91 9332193076  
-- ✉️ <a href="mailto:sohomchatterjee07@gmail.com">sohomchatterjee07@gmail.com</a>  
-- 📍 Kolkata, West Bengal  
-- 🌐 [Portfolio](https://sohom-portfolio-website.web.app/)  
-- 🐱 [GitHub: Sagexd08](https://github.com/Sagexd08)
+<table>
+  <tr>
+    <td width="200">
+      <img src="https://media.giphy.com/media/l4pLY0zySvluEvr0c/giphy.gif" alt="Contact GIF" width="180" />
+    </td>
+    <td valign="top">
+      <ul style="list-style: none; padding-left: 0;">
+        <li>📱 <strong>Phone:</strong> +91 9332193076</li>
+        <li>✉️ <strong>Email:</strong> <a href="mailto:sohomchatterjee07@gmail.com">sohomchatterjee07@gmail.com</a></li>
+        <li>📍 <strong>Location:</strong> Kolkata, West Bengal</li>
+        <li>🌐 <strong>Portfolio:</strong> <a href="https://sohom-portfolio-website.web.app/">sohom-portfolio-website.web.app</a></li>
+        <li>🐱 <strong>GitHub:</strong> <a href="https://github.com/Sagexd08">Sagexd08</a></li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -145,4 +153,3 @@ I am deeply passionate about backend systems, DevOps practices, and AI/ML resear
 ---
 
 [![Visitor Count](https://visitcount.itsvg.in/api?id=Sagexd08&icon=0&color=0)](https://visitcount.itsvg.in)  
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
