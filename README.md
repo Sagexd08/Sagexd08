@@ -32,7 +32,7 @@
 <table>
   <tr>
     <td width="200">
-      <img src="https://media.giphy.com/media/l4pLY0zySvluEvr0c/giphy.gif" alt="Contact GIF" width="180" />
+      <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" alt="Contact GIF" width="180" />
     </td>
     <td valign="top">
       <ul style="list-style: none; padding-left: 0;">
@@ -61,7 +61,7 @@ I am deeply passionate about backend systems, DevOps practices, and AI/ML resear
       <img src="https://media.giphy.com/media/26tPplGWjN0xLybiU/giphy.gif" alt="Mentoring GIF" width="180" />
     </td>
     <td valign="top">
-      Tech Executive · GeeksForGeeks SNU Chapter
+      Tech Executive · GeeksForGeeks SNU Chapter  
       March 2025 – Present  
       <ul>
         <li>Mentored 15+ student teams through the AI/ML project lifecycle: defining problem statements, selecting algorithms, and designing robust architectures.</li>
@@ -69,7 +69,8 @@ I am deeply passionate about backend systems, DevOps practices, and AI/ML resear
         <li>Guided teams in data preprocessing, model training, hyperparameter tuning, and deployment using Python, scikit-learn, TensorFlow, Flask, and Docker.</li>
         <li>Enabled 10+ live demos and real-world application showcases by helping teams containerize, deploy, and monitor their models.</li>
       </ul>
-      Gen-AI Intern · AI Wallah 
+
+      Gen-AI Intern · AI Wallah  
       May 2025 – July 2025  
       <ul>
         <li>Prototyped, trained, and fine-tuned transformer-based generative models (text, image, audio) on real-world datasets.</li>
@@ -87,16 +88,17 @@ I am deeply passionate about backend systems, DevOps practices, and AI/ML resear
 <table>
   <tr>
     <td width="200">
-      <img src="https://media.giphy.com/media/l4pLY0zySvluEvr0c/giphy.gif" alt="Education GIF" width="180" />
+      <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" alt="Education GIF" width="180" />
     </td>
     <td valign="top">
-      B.Tech Computer Science &amp; Engineering (Data Science),
-      School of Engineering, Sister Nivedita University,
+      B.Tech Computer Science &amp; Engineering (Data Science),  
+      School of Engineering, Sister Nivedita University,  
       2024 – 2028 (ongoing)
-      <br/>
-      <br/>
-      Secondary &amp; Higher Secondary (10+2) ,
-      D.A.V Model School, Durgapur,
+
+      <br/><br/>
+
+      Secondary &amp; Higher Secondary (10+2),  
+      D.A.V Model School, Durgapur,  
       2010 – 2024
     </td>
   </tr>
