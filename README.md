@@ -2,94 +2,147 @@
   <img src="https://i.pinimg.com/originals/d4/63/f2/d463f24b0e1f3f1ce6680d601c97e6a0.gif" alt="MasterHead" />
 </p>
 
-<h1 align="center">Hi 👋, I'm Sohom Chatterjee</h1>
-<h3 align="center">Undergraduate B.Tech Computer Science & Engineering Student</h3>
+<h1 align="center">Hi 👋, I'm Sohom Chatterjee</h1>  
+<h3 align="center">B.Tech CSE (Data Science) Student | Backend Dev | AI/ML Enthusiast</h3>
 
 ---
 
-## 💫 About Me
-I am currently pursuing B.Tech (CSE) at Sister Nivedita University. I love exploring new technologies and applying them to real-world problems. Some of my interests include:
-- Machine Learning & Data Science
-- AI-driven solutions for agriculture (Aqua Crop / smart greenhouse)
-- Web & Full-Stack Development
-- IoT & Embedded Systems
-
----
-
-## 🌐 Socials
+## 💫 About Me  
 <p align="center">
-  <a href="https://bsky.app/profile/Sagexd08" target="_blank">
-    <img src="https://img.shields.io/badge/bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=%23FFFFFF" alt="Bluesky" />
-  </a>
-  <a href="https://instagram.com/sagexd_07" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white&style=for-the-badge" alt="Instagram" />
-  </a>
-  <a href="https://www.linkedin.com/in/sohom-chatterjee-61828a312" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn" />
-  </a>
-  <a href="https://x.com/Sagexd_07" target="_blank">
-    <img src="https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white&style=for-the-badge" alt="X (Twitter)" />
-  </a>
-  <a href="mailto:sohomchatterjee07@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=for-the-badge" alt="Email" />
-  </a>
+  <img src="https://media.giphy.com/media/13CoXDiaCcCoyk/giphy.gif" alt="Coding GIF" width="200" />
+</p>
+I’m a passionate B.Tech CSE (Data Science) student at Sister Nivedita University, Kolkata. I thrive on solving real-world problems with code, building AI/ML solutions, and contributing to DevOps pipelines. My background includes:
+- **Backend Development** with Python (Flask) & Node.js  
+- **AI/ML & Computer Vision** projects (TensorFlow, PyTorch, scikit-learn)  
+- **DevOps & Containerization** (Docker, Vercel)  
+- A strong foundation in strategic planning, creative problem solving, and adaptability
+
+I love collaborating with teams, mentoring peers, and exploring emerging technologies—especially in smart agriculture (Aqua Crop & greenhouse automation). Always eager to learn and innovate!  
+
+---
+
+## 📞 Contact  
+<p align="center">
+  <img src="https://media.giphy.com/media/l4pLY0zySvluEvr0c/giphy.gif" alt="Contact GIF" width="200" />
+</p>
+- 📱 +91 9332193076  
+- ✉️ <a href="mailto:sohomchatterjee07@gmail.com">sohomchatterjee07@gmail.com</a>  
+- 📍 Kolkata, West Bengal  
+- 🌐 [Portfolio](https://sohom-portfolio-website.web.app/)  
+- 🐱 [GitHub: Sagexd08](https://github.com/Sagexd08)
+
+---
+
+## 📝 Profile Summary  
+🔍 **Profile**  
+I am deeply passionate about backend systems, DevOps practices, and AI/ML research. Skilled in Python, Flask, Node.js, and TensorFlow, I have architected and deployed several impactful projects in smart agriculture (Aqua Crop, smart greenhouse) and computer vision. Constantly seeking internships or collaborative opportunities to deepen my skillset and contribute high‐value, scalable solutions.
+
+---
+
+## 💼 Work Experience  
+<p align="center">
+  <img src="https://media.giphy.com/media/26tPplGWjN0xLybiU/giphy.gif" alt="Mentoring GIF" width="200" />
 </p>
 
+### Tech Executive · GeeksForGeeks SNU Chapter  
+**March 2025 – Present**  
+- Mentored **15+ student teams** through the AI/ML project lifecycle: defining problem statements, selecting algorithms, and designing robust architectures.  
+- Provided **in-depth code reviews** and technical feedback, improving solution quality and learning outcomes.  
+- Guided teams in **data preprocessing**, model training, hyperparameter tuning, and deployment using Python, scikit-learn, TensorFlow, Flask, and Docker.  
+- Enabled **10+ live demos** and real-world application showcases by helping teams containerize, deploy, and monitor their models.  
+
+### Gen-AI Intern · AI Wallah  
+**May 2025 – July 2025**  
+- **Prototyped, trained, and fine-tuned** transformer‐based generative models (text, image, audio) on real-world datasets.  
+- Mastered attention mechanisms, tokenization pipelines, and deployment best practices.  
+- Built **scalable end-to-end pipelines**: integrated data ingestion, model training, evaluation, and production deployment.  
+- **Optimized model performance** with quantization, pruning, and hyperparameter sweeps; documented solutions and maintained reproducible codebases.
+
 ---
 
-## 💻 Tech Stack
+## 🎓 Education  
 <p align="center">
-  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />
-  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
-  <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
-  <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
-  <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="scikit-learn" />
-  <img src="https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white" alt="SciPy" />
-  <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white" alt="PyTorch" />
-  <img src="https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white" alt="Plotly" />
-  <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white" alt="TensorFlow" />
-  <img src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black" alt="Matplotlib" />
-  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white" alt="Arduino" />
-  <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://media.giphy.com/media/l4pLY0zySvluEvr0c/giphy.gif" alt="Education GIF" width="200" />
 </p>
+
+- **B.Tech Computer Science & Engineering (Data Science)**  
+  School of Engineering, Sister Nivedita University  
+  *2024 – 2028 (ongoing)*  
+
+- **Secondary & Higher Secondary (10+2)**  
+  D.A.V Model School, Durgapur  
+  *2010 – 2024*
+
+---
+
+## 🛠️ Technical Skills  
+<p align="center">
+  <img src="https://media.giphy.com/media/3o6Zt481isNVuQI1l6/giphy.gif" alt="Skills GIF" width="200" />
+</p>
+
+- **Programming Languages & Frameworks**  
+  - Python (Flask, FastAPI)  
+  - JavaScript (Node.js, Express)  
+  - TensorFlow, PyTorch  
+  - scikit-learn, NumPy, Pandas, SciPy  
+
+- **DevOps & Deployment**  
+  - Docker & Containerization  
+  - Vercel & Serverless Hosting  
+  - CI/CD Pipelines (GitHub Actions)  
+
+- **Tools & Libraries**  
+  - OpenCV for Computer Vision  
+  - Matplotlib & Plotly for Visualization  
+  - Flask & RESTful API design  
+  - Linux & Bash scripting  
+
+- **Soft Skills**  
+  - Strategic Planning & Problem Solving  
+  - Crisis Management & Adaptability  
+  - Creative Thinking & Negotiation  
+  - Team Collaboration & Mentorship  
+
+---
+
+## 🌐 Languages  
+- English (Fluent)  
+- Hindi (Fluent)  
+- Bengali (Native)
 
 ---
 
 ## 📊 GitHub Stats
-
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sagexd08&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="Sohom’s GitHub Stats" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sagexd08&theme=dark&hide_border=false" alt="GitHub Streak" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sagexd08&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Sagexd08&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="Sohom’s GitHub Stats" />  
+  <br/>  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sagexd08&theme=dark&hide_border=false" alt="GitHub Streak" />  
+  <br/>  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sagexd08&theme=dark&hide_border=false&layout=compact" alt="Top Languages" />  
 </div>
 
 ---
 
-## 🏆 GitHub Trophies
-
+## 🏆 GitHub Trophies  
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Sagexd08&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies" />
 </div>
 
 ---
 
-## 🔝 Top Contributed Repo
-
+## 🔝 Top Contributed Repo  
 <div align="center">
   <img src="https://github-contributor-stats.vercel.app/api?username=Sagexd08&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="Top Contributors" />
 </div>
 
 ---
 
-### ✍️ Random Dev Quote
+### ✍️ Random Dev Quote  
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" />
 </p>
 
 ---
 
-[![Visitor Count](https://visitcount.itsvg.in/api?id=Sagexd08&icon=0&color=0)](https://visitcount.itsvg.in)
-
+[![Visitor Count](https://visitcount.itsvg.in/api?id=Sagexd08&icon=0&color=0)](https://visitcount.itsvg.in)  
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
