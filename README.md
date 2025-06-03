@@ -32,7 +32,7 @@
 <table>
   <tr>
     <td width="200">
-      <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmYzNHZteW0zbzd6YnF4ODh2NTgyc3NlN28xcGp2cmY5M3Y1M29yOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/CCkBIVZmZemmu4tl3l/giphy.gif" alt="Contact GIF" width="180" />
+      <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExa251cmQ5NmIxcjNjZ2djMTN0NGxydXBndXc5dGQwZ2U5bGFrcmxmciZlcD12MV9naWZzX3NlYXJjaCZjdD1n/kpiJbrTd1ZLqZPGgda/giphy.gif" alt="Contact GIF" width="180" />
     </td>
     <td valign="top">
       <ul style="list-style: none; padding-left: 0;">
