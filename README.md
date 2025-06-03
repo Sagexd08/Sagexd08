@@ -82,6 +82,37 @@ I am deeply passionate about backend systems, DevOps practices, and AI/ML resear
 </table>
 
 ---
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Chart%20Increasing.png" alt="📊" width="35" /> **Performance Dashboard**
+
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/0dbe510d-1cd1-46f3-b79c-4d4b8e3708c9" width="200" style="float: left; margin: 0 20px 20px 0;">
+</div>
+
+<div align="center">
+  <table>
+    <tr>
+      <td>
+        <img height="200" src="https://github-readme-stats.vercel.app/api?username=euii-ii&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=FF6B9D&text_color=FFFFFF&icon_color=FF6B9D" alt="GitHub Stats"/>
+      </td>
+      <td>
+        <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=euii-ii&layout=compact&langs_count=8&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B9D&text_color=FFFFFF" alt="Top Languages"/>
+      </td>
+    </tr>
+  </table>
+</div>
+<div align="center">
+  <img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=euii-ii&theme=radical&hide_border=true&background=0D1117&stroke=FF6B9D&ring=FF6B9D&fire=FF6B9D&currStreakLabel=FFFFFF" alt="GitHub Streak"/>
+</div>
+
+---
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" alt="📈" width="35" /> **Contribution Symphony**
+
+<div align="center">
+  <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=euii-ii&custom_title=Sohom%27s%20Contribution%20Graph&bg_color=0D1117&color=FF6B9D&line=FF6B9D&point=FFFFFF&area=true&hide_border=true" alt="Contribution Graph"/>
+</div>
+
+---
 
 ## 🎓 Education  
 <table>
