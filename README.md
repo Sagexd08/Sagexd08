@@ -82,7 +82,7 @@ I am deeply passionate about backend systems, DevOps practices, and AI/ML resear
 </table>
 
 ---
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Chart%20Increasing.png" alt="📊" width="35" /> **Performance Dashboard**
+
 
 <div align="center">
   <img src="https://github.com/user-attachments/assets/0dbe510d-1cd1-46f3-b79c-4d4b8e3708c9" width="200" style="float: left; margin: 0 20px 20px 0;">
@@ -92,16 +92,16 @@ I am deeply passionate about backend systems, DevOps practices, and AI/ML resear
   <table>
     <tr>
       <td>
-        <img height="200" src="https://github-readme-stats.vercel.app/api?username=euii-ii&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=FF6B9D&text_color=FFFFFF&icon_color=FF6B9D" alt="GitHub Stats"/>
+        <img height="200" src="https://github-readme-stats.vercel.app/api?username=Sagexd08&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=FF6B9D&text_color=FFFFFF&icon_color=FF6B9D" alt="GitHub Stats"/>
       </td>
       <td>
-        <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=euii-ii&layout=compact&langs_count=8&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B9D&text_color=FFFFFF" alt="Top Languages"/>
+        <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sagexd08&layout=compact&langs_count=8&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B9D&text_color=FFFFFF" alt="Top Languages"/>
       </td>
     </tr>
   </table>
 </div>
 <div align="center">
-  <img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=euii-ii&theme=radical&hide_border=true&background=0D1117&stroke=FF6B9D&ring=FF6B9D&fire=FF6B9D&currStreakLabel=FFFFFF" alt="GitHub Streak"/>
+  <img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=Sagexd08&theme=radical&hide_border=true&background=0D1117&stroke=FF6B9D&ring=FF6B9D&fire=FF6B9D&currStreakLabel=FFFFFF" alt="GitHub Streak"/>
 </div>
 
 ---
