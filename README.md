@@ -82,7 +82,7 @@ I am deeply passionate about backend systems, DevOps practices, and AI/ML resear
 </table>
 
 ---
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Chart%20Increasing.png" alt="📊" width="35" /> **Performance Dashboard**
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Chart%20Increasing.png" alt="📊" width="35" /> **Performance Dashboard**
 
 <div align="center">
   <img src="https://github.com/user-attachments/assets/0dbe510d-1cd1-46f3-b79c-4d4b8e3708c9" width="200" style="float: left; margin: 0 20px 20px 0;">
