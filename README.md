@@ -106,7 +106,7 @@ I am deeply passionate about backend systems, DevOps practices, and AI/ML resear
 
 ---
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" alt="📈" width="35" /> **Contribution Symphony**
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" alt="📈" width="35" /> **Contribution Symphony**
 
 <div align="center">
   <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=euii-ii&custom_title=Sohom%27s%20Contribution%20Graph&bg_color=0D1117&color=FF6B9D&line=FF6B9D&point=FFFFFF&area=true&hide_border=true" alt="Contribution Graph"/>
