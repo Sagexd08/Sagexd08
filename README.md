@@ -83,23 +83,6 @@ I am deeply passionate about backend systems, DevOps practices, and AI/ML resear
 
 ---
 
-
-<div align="center">
-  <img src="https://github.com/user-attachments/assets/0dbe510d-1cd1-46f3-b79c-4d4b8e3708c9" width="200" style="float: left; margin: 0 20px 20px 0;">
-</div>
-
-<div align="center">
-  <table>
-    <tr>
-      <td>
-        <img height="200" src="https://github-readme-stats.vercel.app/api?username=Sagexd08&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=FF6B9D&text_color=FFFFFF&icon_color=FF6B9D" alt="GitHub Stats"/>
-      </td>
-      <td>
-        <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sagexd08&layout=compact&langs_count=8&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B9D&text_color=FFFFFF" alt="Top Languages"/>
-      </td>
-    </tr>
-  </table>
-
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" alt="📈" width="35" /> **Contribution Symphony**
 
 <div align="center">
