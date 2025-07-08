@@ -99,12 +99,6 @@ I am deeply passionate about backend systems, DevOps practices, and AI/ML resear
       </td>
     </tr>
   </table>
-</div>
-<div align="center">
-  <img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=Sagexd08&theme=radical&hide_border=true&background=0D1117&stroke=FF6B9D&ring=FF6B9D&fire=FF6B9D&currStreakLabel=FFFFFF" alt="GitHub Streak"/>
-</div>
-
----
 
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" alt="📈" width="35" /> **Contribution Symphony**
 
