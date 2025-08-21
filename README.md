@@ -14,14 +14,14 @@
       <img src="https://media.giphy.com/media/13CoXDiaCcCoyk/giphy.gif" alt="Coding GIF" width="180" />
     </td>
     <td valign="top">
-      I'm a passionate B.Tech CSE (Data Science) student at Sister Nivedita University, Kolkata. I thrive on solving real-world problems with code, building AI/ML solutions, and contributing to DevOps pipelines. My background includes:
+      I'm a passionate B.Tech CSE (Data Science) student at Sister Nivedita University, Kolkata. I thrive on solving real-worl d problems with code, building AI/ML solutions, and contributing to DevOps pipelines. My background includes:
       <ul>
         <li><strong>Backend Development</strong> with Python (Flask) &amp; Node.js</li>
         <li><strong>AI/ML &amp; Computer Vision</strong> projects (TensorFlow, PyTorch, scikit-learn)</li>
         <li><strong>DevOps &amp; Containerization</strong> (Docker, Vercel)</li>
         <li>A strong foundation in strategic planning, creative problem solving, and adaptability</li>
       </ul>
-      I love collaborating with teams, mentoring peers, and exploring emerging technologies—especially in smart agriculture (Aqua Crop &amp; greenhouse automation). Always eager to learn and innovate!
+      I love collaborating with teams, mentoring peers, and exploring emerging technologies—especially in smart texh solutions. Always eager to learn and innovate!
     </td>
   </tr>
 </table>
