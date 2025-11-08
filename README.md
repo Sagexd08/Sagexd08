@@ -115,6 +115,4 @@ What drives me is the thrill of creating experiences that feel human, yet powere
 
 <br>
 
-![Visitors](https://komarev.com/ghpvc/?username=Sagexd08&color=58a6ff&style=flat&label=Profile+Views)
-
 </div>
