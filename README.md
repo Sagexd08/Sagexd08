@@ -5,25 +5,29 @@
 </div>
 
 <table width="100%">
-<tr>
-<td width="35%" align="center">
+  <tr>
+    <td width="35%" align="center">
+      
+      <!-- GIF on Top -->
+      <img src="https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif" width="220" style="border-radius: 15px; margin-bottom: 10px;" alt="Developer GIF" />
+      
+      <div align="center">
+      <br>
 
-<img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200'>
-<div align="">
-<br>
-
-```typescript
-const developer = {
-  name: "Sohom Chatterjee",
-  role: "AI/ML developer,Gen-Ai and BlockChain Architet",
-  location: "India 🇮🇳",
-  education: "B.Tech Student",
-  status: "Building & Learning",
-  passion: ["Clean Code", "Innovation"]
-};
-```
-
-</td>
+      ```typescript
+      const developer = {
+        name: "Sohom Chatterjee",
+        role: "AI/ML Developer, Gen-AI & Blockchain Architect",
+        location: "India 🇮🇳",
+        education: "B.Tech Student",
+        status: "Building & Learning",
+        passion: ["Clean Code", "Innovation"]
+      };
+      ```
+      </div>
+    </td>
+  </tr>
+</table>
 <td width="65%">
 
 ## ARIGATO!!
