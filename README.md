@@ -8,7 +8,7 @@
 <tr>
 <td width="35%" align="center">
 
-<img src="https://github.com/user-attachments/assets/7bc2d9a9-4aca-4af8-be03-e99e622ff4e8" width="280" style="border-radius: 20px; box-shadow: 0 8px 32px rgba(99, 102, 241, 0.2);" />
+<img src="https://i.pinimg.com/originals/d4/63/f2/d463f24b0e1f3f1ce6680d601c97e6a0.gif" width="280" style="border-radius: 20px; box-shadow: 0 8px 32px rgba(99, 102, 241, 0.2);" />
 
 <br>
 
@@ -26,7 +26,7 @@ const developer = {
 </td>
 <td width="65%">
 
-## HOLLA!!
+## ARIGATO!!
 
 > *"Every model starts as code, but true intelligence begins with curiosity."*
 
@@ -56,7 +56,7 @@ What drives me is the thrill of creating experiences that feel human, yet powere
 <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,sklearn,opencv,jupyter,vscode&theme=dark" alt="AI/ML Skills" />
 
 ### BlockChain Skills
-<img src="https://skillicons.dev/icons?i=solidity,ethereum,web3,hardhat,ipfs,js,ts&theme=dark" alt="Blockchain Skills" />
+<img src="https://skillicons.dev/icons?i=solidity,ethereum,hardhat,js,ts&theme=dark" alt="Blockchain Skills" />
 
 ### Backend & Cloud  
 <img src="https://skillicons.dev/icons?i=nodejs,express,flask,fastapi,mongodb,mysql,firebase,supabase,aws,gcp,vercel,netlify,docker,nginx&theme=dark" alt="Backend & Cloud Skills" />
