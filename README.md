@@ -8,7 +8,8 @@
 <tr>
 <td width="35%" align="center">
 
-<img src="https://github.com/user-attachments/assets/7bc2d9a9-4aca-4af8-be03-e99e622ff4e8" width="280" style="border-radius: 20px; box-shadow: 0 8px 32px rgba(99, 102, 241, 0.2);" />
+<img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200'>
+<div align="">
 <br>
 
 ```typescript
