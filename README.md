@@ -52,7 +52,7 @@ What drives me is the thrill of creating experiences that feel human, yet powere
 <div align="center">
 
 ### AI/Ml Skills
-<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,sklearn,opencv,jupyter,vscode&theme=dark" alt="AI/ML Skills" />
+<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,sklearn,opencv,vscode&theme=dark" alt="AI/ML Skills" />
 
 ### BlockChain Skills
 <img src="https://skillicons.dev/icons?i=solidity,js,ts&theme=dark" alt="Blockchain Skills" />
