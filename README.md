@@ -8,7 +8,8 @@
 <tr>
 <td width="35%" align="center">
 
-<img src="https://miro.medium.com/v2/resize:fit:1400/1*vi6J3RZcFd8cT1ZbYH8v-w.gif" width="220" style="border-radius: 15px; margin-bottom: 10px;" alt="AI Data Flow Animation" />
+<img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="220" style="border-radius: 15px; margin-bottom: 10px;" alt="AI Developer Coding" />
+
 
 
 <div align="">
