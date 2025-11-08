@@ -8,7 +8,8 @@
 <tr>
 <td width="35%" align="center">
 
-<img src="https://cdn.dribbble.com/users/32512/screenshots/17274064/media/ae62a5017b6b1f2e216b3ee884d2c09b.gif" width="220" style="border-radius: 15px; margin-bottom: 10px;" alt="AI Neural Animation" />
+<img src="https://miro.medium.com/v2/resize:fit:1400/1*vi6J3RZcFd8cT1ZbYH8v-w.gif" width="220" style="border-radius: 15px; margin-bottom: 10px;" alt="AI Data Flow Animation" />
+
 
 <div align="">
 <br>
