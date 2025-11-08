@@ -5,26 +5,25 @@
 </div>
 
 <table width="100%">
-  <tr>
-    <td width="35%" align="center">
-      <img src="https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif" width="220" style="border-radius: 15px; margin-bottom: 10px;" alt="Developer GIF" />
-      <div align="center">
-      <br>
-        
-      ```typescript
-      const developer = {
-        name: "Sohom Chatterjee",
-        role: "AI/ML Developer, Gen-AI & Blockchain Architect",
-        location: "India 🇮🇳",
-        education: "B.Tech Student",
-        status: "Building & Learning",
-        passion: ["Clean Code", "Innovation"]
-      };
-      '''
-   </div>
-   </td>
-  </tr>
-</table>
+<tr>
+<td width="35%" align="center">
+
+<img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="220" style="border-radius: 15px; margin-bottom: 10px;" alt="AI Developer Coding" />
+<div align="">
+<br>
+
+```typescript
+const developer = {
+  name: "Sohom Chatterjee",
+  role: "AI/ML developer,Gen-Ai and BlockChain Architet",
+  location: "India 🇮🇳",
+  education: "B.Tech Student",
+  status: "Building & Learning",
+  passion: ["Clean Code", "Innovation"]
+};
+```
+
+</td>
 <td width="65%">
 
 ## ARIGATO!!
@@ -47,6 +46,7 @@ What drives me is the thrill of creating experiences that feel human, yet powere
 </td>
 </tr>
 </table>
+
 
 
 ## 🛠 Technical Expertise
