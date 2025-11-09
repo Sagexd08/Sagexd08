@@ -66,7 +66,7 @@ What drives me is the thrill of creating experiences that feel human, yet powere
 <img src="https://skillicons.dev/icons?i=nodejs,express,flask,fastapi,mongodb,mysql,firebase,supabase,aws,gcp,vercel,netlify,docker,nginx&theme=dark" alt="Backend & Cloud Skills" />
 
 ### Tools & Technologies  
-<img src="https://skillicons.dev/icons?i=git,github,linux,docker,vscode,postman,npm,vite,threejs,solidity,hardhat,vercel,netlify,bash,figma&theme=dark" alt="Tools & Technologies" />
+<img src="https://skillicons.dev/icons?i=git,github,linux,docker,vscode,postman,npm,vite,threejs,solidity,vercel,netlify,bash,figma&theme=dark" alt="Tools & Technologies" />
 
 </div>
 
